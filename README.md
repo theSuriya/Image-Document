@@ -38,8 +38,10 @@ This project is an Image-to-Document converter application built using the Gemin
     ```
 
 3. Set up the Google API Key:
-    - Obtain an API key from Google Generative AI.
-    - Set the environment variable `GOOGLE_API_KEY` with your API key.
+    Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your api key like this:
+  ```bash
+  GOOGLE_API_KEY = "paste the api key here"
+  ```
 
 ### Usage
 
