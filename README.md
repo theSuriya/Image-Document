@@ -22,7 +22,6 @@ This project is an Image-to-Document converter application built using the Gemin
 - Python 3.x
 - Streamlit
 - Google Generative AI (`google-generativeai`)
-- Tesseract OCR (if required)
 - Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
